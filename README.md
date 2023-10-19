@@ -11,12 +11,6 @@ In this project, I developed a machine learning model to predict the likelihood 
 - Model Development
 - Model Evaluation
 
-## Project Structure
-
-- `notebooks/`: Jupyter Notebook files with code and analysis.
-- `data/`: Data files used in the project.
-- `images/`: Images and visualizations generated during analysis.
-
 ## Data Source
 
 The dataset used for this project is the LendingClub dataset, which contains historical data on loan applications, approved loans, and loan statuses.
@@ -30,13 +24,15 @@ The dataset used for this project is the LendingClub dataset, which contains his
 - Matplotlib
 - Seaborn
 
-## Project Results
+## Results
 
-The machine learning model developed in this project achieved a predictive accuracy of X% on the test dataset. The project's findings are detailed in the Jupyter Notebook.
+The results of the machine learning classification, including model performance metrics and insights, are available in the [Results](/presentation.pdf) directory. These insights provide an overview of the model's recall and ROC-AUC curve.
 
-## Usage
+## Project Structure
 
-You can explore the Jupyter Notebook in the `notebooks/` directory to understand the data analysis and modeling process.
+1. [Notebooks](https://github.com/frzkstudio/ML_Credit_Risk_Scoring/blob/main/source%20code%20-%20Credit%20risk%20scoring.ipynb): This folder contains Jupyter notebooks used for data analysis, data preprocessing, model training, and evaluation.
+
+2. [Presentation](presentation.pdf): This folder contains the PowerPoint presentation summarizing the project's goals, methodologies, and results.
 
 ## About the Author
 
